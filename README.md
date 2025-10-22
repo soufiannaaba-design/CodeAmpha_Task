@@ -1,2 +1,2 @@
-# CodeAmpha_Task
+# CodeAlpha_Task
 calculator age  
